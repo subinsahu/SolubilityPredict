@@ -22,3 +22,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# large file
+data/model.pkl
